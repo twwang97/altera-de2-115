@@ -3,7 +3,7 @@
 4-bit adder with enable and synchronous reset
 </h1>
 <h3 align="center">
-<a href="https://github.com/twwang97/altera-de2-115/4bit-adder/blob/nycu2025/"><strong> Code </strong></a>
+<a href="https://github.com/twwang97/altera-de2-115/tree/nycu2025/4bit-adder"><strong> Code </strong></a>
 |
 <a href="https://youtu.be/OLvouKIflv0"><strong> Video </strong></a>
 |
