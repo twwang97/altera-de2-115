@@ -1,6 +1,6 @@
 ## Project 4: FSM-based Adders with Comparators
 
-[Code](https://github.com/twwang97/altera-de2-115/tree/nycu2025/compare-8bit-adders/src) | [Report](https://github.com/twwang97/altera-de2-115/tree/nycu2025/4bit-adder/vsim/report.pdf)
+[Code](https://github.com/twwang97/altera-de2-115/tree/nycu2025/compare-8bit-adders/src) | [Report](https://github.com/twwang97/altera-de2-115/tree/nycu2025/compare-8bit-adders/vsim/report.pdf)
 
 ##### Objectives: 
 * To understand half adders, full adders, 8-bit **ripple-carry adder (RCA)**, **carry-lookahead adder (CLA)**, finite state machine (FSM), and **magnitude comparator**.
