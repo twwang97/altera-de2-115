@@ -9,3 +9,5 @@
   - keywords: ripple-carry adder (RCA)
 * Project 2: 4-bit adders
   - keywords: full adder, ripple-carry adder (RCA), carry-lookahead adder (CLA)
+* Project 3: Finite State Machine (FSM)
+  - keywords: Finite State Machine (FSM), Mealy machine, Moore machine
