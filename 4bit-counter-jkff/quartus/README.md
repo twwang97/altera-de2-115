@@ -40,6 +40,11 @@ source main.tcl
 
 ![picture_modelsim_result](./vsim/modelsim.png)
 
+* Step 8: Program your FPGA board with your bitstream file. Then start your experiment similar to my counter: [video](https://youtu.be/XKo9285kK94).
+
+<!-- experiment Altera DE2 video (published shorter video): https://youtu.be/KPDtDhJqPgE -->
+<!-- experiment Altera DE2 video (hidden but complete video): https://youtu.be/XKo9285kK94 -->
+
 ---
 
 * Note-1. You can re-do the simulation in QuestaSim (ModelSim) by executing
